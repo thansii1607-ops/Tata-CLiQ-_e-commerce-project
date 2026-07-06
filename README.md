@@ -76,6 +76,3 @@ The project includes:
 - AI-based Analytics
 - Real-time Inventory Tracking
 - Advanced Admin Dashboard
-
-## 📄 License
-This project is developed for educational and academic purposes only.
